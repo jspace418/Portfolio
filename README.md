@@ -55,9 +55,11 @@ mysql -u webuser -p
 ```
 where you will be prompted to enter the password. 
 
-6. In your web browser, go to http://localhost/mainmenu.php
+6. Initialize SQL database by coping and pasting [startscript.sql](InventoryManagement/startscript.sql) in MySQL.
 
-7. When finished, close Apache and MySQL
+7. In your web browser, go to http://localhost/mainmenu.php
+
+8. When finished, close Apache and MySQL
 ```bash
 sudo service apache2 stop
 sudo service mysql stop
