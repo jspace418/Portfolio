@@ -42,6 +42,18 @@ sudo service mysql start
 ```bash
 sudo cp -r /path/to/project /var/www/html
 ```
+5. Create user in MySQL
+```bash
+sudo mysql
+CREATE USER 'webuser'@'localhost' IDENTIFIED BY 'password';
+```
+> If you used different username and password, make sure use that credentials in db_connect.php.
+
+After creating a user, you can access MySQl by
+```bash
+mysql -u webuser -p
+```
+where you will be prompted to enter the password. 
 5. In your web browser, go to http://localhost/mainmenu.php
 6. When finished, close Apache and MySQL
 ```bash
