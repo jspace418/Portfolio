@@ -1,4 +1,7 @@
 # Portfolio
+## Profile
+Seongmin Park
+
 ## [Household Expenditure Report](https://github.com/jspace418/Portfolio/tree/main/HouseholdExpenditure)
 - Analytics using Python
 - Group Project/Assignment for Data Science (Machine Learning) course
