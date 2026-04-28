@@ -5,7 +5,7 @@
 sudo apt update
 sudo apt install apache2 php libapache2-mod-php php-mysql mysql-server -y
 ``` 
-2. Start Apache
+2. Start Apache and MySQL
 ```bash
 sudo service apache2 start
 sudo service mysql start
