@@ -37,3 +37,8 @@ sudo service mysql start
 sudo cp -r /path/to/project /var/www/html
 ```
 5. In your web browser, go to http://localhost/mainmenu.php
+6. When finished, close Apache and MySQL
+```bash
+sudo service apache2 stop
+sudo service mysql stop
+```
