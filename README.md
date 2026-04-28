@@ -1,6 +1,7 @@
 # Portfolio
 ## Profile
 Seongmin Park, Western University (Expected Graduation: 2027)
+
 B. Sc. Major in Data Science, Minor in Computer Science
 
 ## [Household Expenditure Report](https://github.com/jspace418/Portfolio/tree/main/HouseholdExpenditure)
