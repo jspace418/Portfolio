@@ -15,6 +15,8 @@ B. Sc. Major in Data Science, Minor in Computer Science
 - Connecting SQL database into website using php
 
 ### Demo Video
+Click below to See the video
+
 [![Demo Preview](https://img.youtube.com/vi/In62zRKPesg/maxresdefault.jpg)](https://youtu.be/In62zRKPesg)
 
 ### Instruction
