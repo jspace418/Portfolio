@@ -9,6 +9,13 @@ B. Sc. Major in Data Science, Minor in Computer Science
 - Group Project/Assignment for Data Science (Machine Learning) course
 - Examines how Canadian households allocate their disposable income toward shelter-related expenditures at the dissemination area level
 
+### Disclaimer
+The data used in this project have been provided by [Environics Analytics](https://environicsanalytics.com/about) with an exclusive license to use this data for the course.
+
+The dataset is confidential and protected under a Non-Disclosure Agreement (NDA) signed between EA and UWO.
+
+Please note that THIS DATA CANNOT BE SHARED AND WAS DELETED after this project has finished.
+
 ## [Item Inventory Management](https://github.com/jspace418/Portfolio/blob/main/InventoryManagement/Inventory.md)
 - Created using HTML, CSS, PHP, SQL
 - Assignment for Computer Science (Database) course
