@@ -47,7 +47,7 @@ sudo cp -r /path/to/project /var/www/html
 sudo mysql
 CREATE USER 'webuser'@'localhost' IDENTIFIED BY 'password';
 ```
-> If you used different username and password, make sure use that credentials in db_connect.php.
+> If you used different username and password, make sure use that credentials in [db_connect.php](InventoryManagement/db_connect.php).
 
 After creating a user, you can access MySQl by
 ```bash
