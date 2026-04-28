@@ -15,7 +15,10 @@ B. Sc. Major in Data Science, Minor in Computer Science
 - Connecting SQL database into website using php
 
 ### Demo Video
-[![Watch the demo]](InventoryManagement/demo/InveontoryManagement_DEMO.mp4)
+<video width="700" controls>
+  <source src="InventoryManagement/demo/InveontoryManagement_DEMO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Instruction
 1. Clone [this](https://github.com/jspace418/Portfolio/tree/main/InventoryManagement). Make sure you are using UNIX such as WSL, or any Linux distro. 
