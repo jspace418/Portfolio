@@ -6,12 +6,6 @@ Seongmin Park
 - Analytics using Python
 - Group Project/Assignment for Data Science (Machine Learning) course
 - Examines how Canadian households allocate their disposable income toward shelter-related expenditures at the dissemination area level
-    - K-Means Clustering
-    - Principle Component Analysis (PCA)
-    - Uniform Manifold Approximation and Projection (UMAP)
-    - ElasticNet Generalized Linear Model (ElasticNet GLM)
-    - XGBoost
-    - Shapely Additive Explanations (SHAP)
 
 ## [Item Inventory Management](https://github.com/jspace418/Portfolio/tree/main/InventoryManagement)
 - Created using HTML, CSS, PHP, SQL
